@@ -6,6 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Plugins/Normal/Examples (URP)/Hoverbird Player/Realtime + Hoverbird
+      Player.unity
+    guid: 79268c4743659f341aa0c6079fcfbab1
+  - enabled: 0
     path: Assets/Tutorial/Part 6 Networking/Scene 6.unity
     guid: af5300981f646460dac2715df4c2847b
   m_configObjects: {}
