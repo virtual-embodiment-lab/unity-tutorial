@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Plugins/Normal/Examples (URP)/Hoverbird Player/Realtime + Hoverbird
-      Player.unity
-    guid: 79268c4743659f341aa0c6079fcfbab1
-  - enabled: 0
-    path: Assets/Tutorial/Part 6 Networking/Scene 6.unity
-    guid: af5300981f646460dac2715df4c2847b
-  m_configObjects: {}
+    path: Assets/Oculus/Interaction/Samples/Scenes/Examples/LocomotionExamples.unity
+    guid: d37ed7e92220d1045a36bc73c7c4cf16
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8a758b3919d8a498a89de5c68a8dd8ba,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fc46ac9522b83433bab40ba6b4cc7aab,
+      type: 2}
