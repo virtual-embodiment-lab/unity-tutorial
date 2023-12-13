@@ -35,3 +35,38 @@ This tutorial is designed to guide you through various aspects of Unity developm
 - Script: [IdleToDance.cs](https://github.com/virtual-embodiment-lab/unity-tutorial/blob/main/Assets/Tutorial/Part%209%20Animation%20Blending/IdleToDance.cs)
 
 Feel free to explore each part for a deeper understanding and hands-on experience with the topics covered.
+
+
+## Recordings
+
+During the Fall 2023 semester, I worked with a group of students and recorded some sessions where we went over some basic concepts in Unity that are helpfull for work in the lab. Here are links to the recordings of these sessions.
+
+### Movement in Unity
+
+**Description:** Learn about the basics of character and object movement in Unity.
+
+**YouTube Video:** [Movement](https://youtu.be/nyihEdlUVJU)
+
+### Avatars in Unity
+
+**Description:** This video covers the creation and customization of avatars in Unity, explaining how to import models.
+
+**YouTube Video:** [Avatars](https://youtu.be/R-eP-TdIhG4)
+
+### Movement IK (Inverse Kinematics) in Unity
+
+**Description:** Understand the concept of Inverse Kinematics and how it is used to create more realistic movements in Unity, especially for character joints and animations.
+
+**YouTube Video:** [Inverse Kinematics](https://youtu.be/LpMwSQruies)
+
+### Using Headsets with Unity
+
+**Description:** Explore the integration of VR headsets with Unity, focusing on setup, configuration, and basic VR interactions.
+
+**YouTube Video:** [Headsets](https://youtu.be/qjS9LUHvYMk)
+
+### Blender to Unity Workflow
+
+**Description:** How to create or modify models in Blender and import them into Unity.
+
+**YouTube Video:** [Blender](https://youtu.be/lhW3NdT_rh8)
