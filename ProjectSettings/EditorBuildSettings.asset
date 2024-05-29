@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Oculus/Interaction/Samples/Scenes/Examples/LocomotionExamples.unity
     guid: d37ed7e92220d1045a36bc73c7c4cf16
   m_configObjects:
